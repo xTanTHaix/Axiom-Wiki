@@ -11,3 +11,6 @@ Unlike traditional LLM wikis that duplicate source files and hallucinate functio
 - 🚀 **Zero-Copy Ingestion:** Uses your real workspace directly. No staging folder duplication.
 - 🍃 **Clean & Token-Efficient:** Single-line unified index reduces token consumption by over 50%.
 - 🧠 **Life & Work Unified:** Seamlessly handles Python codebases, research papers, and daily journals.
+- 
+💖 Support & Donations
+Ko-fi: [https://ko-fi.com/xtanthaix](https://ko-fi.com/xtanthaix)

@@ -12,7 +12,7 @@ Unlike traditional LLM wikis that duplicate source files and hallucinate functio
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="middle">
       <img src="https://github.com/user-attachments/assets/8d3b0561-7d17-438d-8eee-10c7d0cb1bc2" alt="Axiom Knowledge Hub" style="width:100%; border-radius: 6px;" />
     </td>
     <td width="50%" valign="top">

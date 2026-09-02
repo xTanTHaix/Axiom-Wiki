@@ -7,12 +7,6 @@
 
 ## 🌟 Why Axiom-Vault?
 Unlike traditional LLM wikis that duplicate source files and hallucinate functions, **Axiom-Vault** introduces **In-Situ Span-Level Grounding** and **Adaptive Progressive Disclosure**:
-- 🛡️ **Anti-Hallucination:** Strict line-level citations `[Ref: path:line]` for code and chapters for books.
-- 🚀 **Zero-Copy Ingestion:** Uses your real workspace directly. No staging folder duplication.
-- 🍃 **Clean & Token-Efficient:** Single-line unified index reduces token consumption by over 50%.
-- 🧠 **Life & Work Unified:** Seamlessly handles Python codebases, research papers, and daily journals.
-
----
 
 ## 🗺️ Architectural Overview & Ecosystem
 

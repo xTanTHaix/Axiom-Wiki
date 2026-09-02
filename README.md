@@ -14,5 +14,47 @@ Unlike traditional LLM wikis that duplicate source files and hallucinate functio
 
 <img width="1498" height="622" alt="Axiom-Wiki" src="https://github.com/user-attachments/assets/161c9346-cdfc-4667-8f7f-95cc6e15512b" />
 
+---
+
+## 🗺️ Architectural Overview & Ecosystem
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github.com/user-attachments/assets/8d3b0561-7d17-438d-8eee-10c7d0cb1bc2" alt="Axiom Knowledge Hub" style="width:100%; border-radius: 6px;" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ Axiom Knowledge Hub</h3>
+      <p><strong>The definitive documentation and persistent architectural memory engine for the Axiom ecosystem.</strong></p>
+      <ul>
+        <li>🛡️ <strong>Span-Level Grounding:</strong> Enforces strict line-level citations for code and chapters for books to eliminate hallucinations[cite: 2].</li>
+        <li>🚀 <strong>Zero-Copy Ingestion:</strong> Operates directly on real workspace directories with zero staging folder duplication[cite: 2].</li>
+        <li>🍃 <strong>Token-Efficient Index:</strong> Leverages a single-line unified master index to reduce context consumption by over 50%[cite: 2].</li>
+        <li>🧠 <strong>Unified Workspace:</strong> Seamlessly consolidates software codebases, research literature, and daily reflective journals[cite: 2].</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github.com/user-attachments/assets/45ce4bb0-ddfb-485a-9754-06ccce659aa0" alt="Decoupling Logic from Knowledge" style="width:100%; border-radius: 6px;" />
+      <br/><br/>
+      <h4>🧩 Decoupling Logic from Knowledge</h4>
+      <p>
+        Separates <strong>Execution & Logic</strong> (source code and binaries for compilers and core developers) from <strong>Explanation & Context</strong> (markdown, architecture diagrams, and tutorials for contributors and onboarders).
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github.com/user-attachments/assets/2b466b3c-3f10-4f1c-a2ec-04c29ac8b114" alt="Access & Contribute" style="width:100%; border-radius: 6px;" />
+      <br/><br/>
+      <h4>🚀 Access & Contribute Lifecycle</h4>
+      <p>
+        A structured three-step lifecycle: <strong>[ Read ]</strong> browse core documentation and setup guides directly in the browser, <strong>[ Clone ]</strong> sync markdown files locally for AI agent integration, and <strong>[ Push ]</strong> submit pull requests to continually expand the wiki.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 💖 Support & Donations
 Ko-fi: [https://ko-fi.com/xtanthaix](https://ko-fi.com/xtanthaix)

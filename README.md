@@ -38,7 +38,7 @@ Unlike traditional LLM wikis that duplicate source files and hallucinate functio
       <br/><br/>
       <h4>🧩 Decoupling Logic from Knowledge</h4>
       <p>
-        Separates <strong>Execution & Logic</strong> (source code and binaries for compilers and core developers) from <strong>Explanation & Context</strong> (markdown, architecture diagrams, and tutorials for contributors and onboarders).
+        Separates <strong>Execution & Logic (source code and binaries for compilers and core developers) from Explanation & Context (markdown, architecture diagrams, and tutorials for contributors and onboarders).
       </p>
     </td>
     <td width="50%" valign="top">
@@ -46,7 +46,7 @@ Unlike traditional LLM wikis that duplicate source files and hallucinate functio
       <br/><br/>
       <h4>🚀 Access & Contribute Lifecycle</h4>
       <p>
-        A structured three-step lifecycle: <strong>[ Read ]</strong> browse core documentation and setup guides directly in the browser, <strong>[ Clone ]</strong> sync markdown files locally for AI agent integration, and <strong>[ Push ]</strong> submit pull requests to continually expand the wiki.
+        A structured three-step lifecycle: browse core documentation and setup guides directly in the browser, sync markdown files locally for AI agent integration, and submit pull requests to continually expand the wiki.
       </p>
     </td>
   </tr>

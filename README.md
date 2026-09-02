@@ -25,10 +25,10 @@ Unlike traditional LLM wikis that duplicate source files and hallucinate functio
       <h3>🏛️ Axiom Knowledge Hub</h3>
       <p><strong>The definitive documentation and persistent architectural memory engine for the Axiom ecosystem.</strong></p>
       <ul>
-        <li>🛡️ <strong>Span-Level Grounding:</strong> Enforces strict line-level citations for code and chapters for books to eliminate hallucinations[cite: 2].</li>
-        <li>🚀 <strong>Zero-Copy Ingestion:</strong> Operates directly on real workspace directories with zero staging folder duplication[cite: 2].</li>
-        <li>🍃 <strong>Token-Efficient Index:</strong> Leverages a single-line unified master index to reduce context consumption by over 50%[cite: 2].</li>
-        <li>🧠 <strong>Unified Workspace:</strong> Seamlessly consolidates software codebases, research literature, and daily reflective journals[cite: 2].</li>
+        <li>🛡️ <strong>Span-Level Grounding:</strong> Enforces strict line-level citations for code and chapters for books to eliminate hallucinations.</li>
+        <li>🚀 <strong>Zero-Copy Ingestion:</strong> Operates directly on real workspace directories with zero staging folder duplication.</li>
+        <li>🍃 <strong>Token-Efficient Index:</strong> Leverages a single-line unified master index to reduce context consumption by over 50%.</li>
+        <li>🧠 <strong>Unified Workspace:</strong> Seamlessly consolidates software codebases, research literature, and daily reflective journals.</li>
       </ul>
     </td>
   </tr>
